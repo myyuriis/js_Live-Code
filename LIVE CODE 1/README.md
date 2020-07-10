@@ -1,5 +1,3 @@
-"# js_livecode1" 
-
 LIVE CODE 1
 Problem
 
