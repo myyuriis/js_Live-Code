@@ -1,0 +1,2 @@
+Username = EnigmaCamp
+Password = EnigmaCampBatch6
